@@ -16,7 +16,7 @@ First challenge of the Rocketseat Ignite Course.
 
 ### :iphone: Screenshots
 
-<img src="./src/assets/screenshots/noTasks.png.jpg" alt="noTasks" width="200"/>
-<img src="./src/assets/screenshots/addTask.png.jpg" alt="addTask" width="200"/>
-<img src="./src/assets/screenshots/taskDone.png.jpg" alt="taskDone" width="200"/>
+<img src="./src/assets/screenshots/noTasks.png" alt="noTasks" width="200"/>
+<img src="./src/assets/screenshots/addTask.png" alt="addTask" width="200"/>
+<img src="./src/assets/screenshots/taskDone.png" alt="taskDone" width="200"/>
 
