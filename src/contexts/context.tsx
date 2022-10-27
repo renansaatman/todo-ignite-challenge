@@ -41,7 +41,7 @@ export function ContextProvider({children} : any) {
     }
 
     if(tasks.find(task => task.description === todoTask.description)) {
-      return Alert.alert('Essa task já existe!')
+      return Alert.alert('Essa tarefa já foi cadastrada!')
     }
 
     setTasks(prevTasks => [...prevTasks, todoTask])
